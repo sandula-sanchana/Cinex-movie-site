@@ -1,0 +1,12 @@
+.middle-header{
+    display: flex;
+    background: #2c2c2c;
+    min-height: 200px !important;
+
+}
+
+.middle-header h1{
+    font-size: 60px;
+    font-family: "JetBrains Mono", monospace;
+    color: #fff;
+}
