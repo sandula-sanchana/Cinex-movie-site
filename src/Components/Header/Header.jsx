@@ -9,7 +9,7 @@ export const Header = () => {
     return (
         <Navbar bg="dark" variant="dark" expand="lg">
             <Container fluid className="m-3">
-                <Navbar.Brand as={Link} to="/">MOVIES</Navbar.Brand>
+                <Navbar.Brand as={Link} to="/">Cinex</Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbar-responsive" />
                 <Navbar.Collapse id="navbar-responsive">
                     <Nav className="ms-auto me-3">
